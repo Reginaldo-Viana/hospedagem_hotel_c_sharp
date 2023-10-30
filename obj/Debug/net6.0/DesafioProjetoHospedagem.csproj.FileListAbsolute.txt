@@ -1,0 +1,15 @@
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/bin/Debug/net6.0/DesafioProjetoHospedagem
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/bin/Debug/net6.0/DesafioProjetoHospedagem.deps.json
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/bin/Debug/net6.0/DesafioProjetoHospedagem.runtimeconfig.json
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/bin/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/bin/Debug/net6.0/ref/DesafioProjetoHospedagem.dll
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/bin/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/obj/Debug/net6.0/DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfo.cs
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/obj/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/obj/Debug/net6.0/ref/DesafioProjetoHospedagem.dll
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/obj/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/reginaldo/Documents/Projetos/Projeto_DotNet/hospedagem_hotel-csharp/obj/Debug/net6.0/DesafioProjetoHospedagem.genruntimeconfig.cache
